@@ -39,9 +39,9 @@ The model follows a structured pipeline:
 - Seaborn & Matplotlib (Data Visualisation)
 - Streamlit (Web App Interface)
 
-## Network URL
+## Application Link
 
-Network URL: http://192.168.0.185:8501
+https://shrutisrivastava04-hotel-booking-status-prediction-app-basl2k.streamlit.app/
 
 ## Use Case
 
