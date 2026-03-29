@@ -68,7 +68,7 @@ if st.button("Predict Booking Status"):
         else:
             st.markdown("""
                     <div style='padding:20px; border-radius:10px; background-color:#4CAF50; color:white; text-align:center;'>
-                    <h2> Likely to Cancel. </h2>
+                    <h2> Likely to Retain. </h2>
                     <p> This booking is expected to be honored!</p>
                     </div>""", unsafe_allow_html=True)
     except Exception as e:
