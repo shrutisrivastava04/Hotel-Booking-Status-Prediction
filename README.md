@@ -57,4 +57,4 @@ This project demonstrates the integration of Machine Learning and Web Developmen
 ## Author
 
 Shruti Srivastava
-email: srivastavashruti218@gmail.com
+- srivastavashruti218@gmail.com
